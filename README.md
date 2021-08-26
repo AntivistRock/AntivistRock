@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **reinforcement learning**, **pybullet** and a bit of **ROS**.
 
-- 🏛️ I recently **graduated from high school** and am going to **study mathematics and computer science** at university.
+- 🏛️ I recently **entered the first year of the MIPT** and am going to **learn Applied mathematics and computer science**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
