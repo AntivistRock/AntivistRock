@@ -1,6 +1,6 @@
 <h1 align="left">Hi there 👋,</h1>
 
-- 🔭 I’m currently working on [AIIJC AI in Robotics task](https://aiijc.com/en/task/1060/).
+- 🔭 I’m currently working on [IDAO-2022](https://idao.world/).
 
 - 🌱 I’m currently learning **reinforcement learning**, **pybullet** and a bit of **ROS**.
 
