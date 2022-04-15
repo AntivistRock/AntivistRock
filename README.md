@@ -1,11 +1,4 @@
 <h1 align="left">Hi there 👋,</h1>
-
-- 🔭 I’m currently working on [IDAO-2022](https://idao.world/).
-
-- 🌱 I’m currently learning **reinforcement learning**, **pybullet** and a bit of **ROS**.
-
-- 🏛️ I recently **entered the first year of the MIPT** and am going to **learn Applied mathematics and computer science**.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="idkonyushenko@gmail.com" height="30" width="40" /></a> - idkonyushenko@gmail.com
